@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hello 1!
+=======
+>>>>>>> new_branch
