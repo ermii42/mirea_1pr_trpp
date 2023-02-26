@@ -4,3 +4,4 @@ hello 1!
 >>>>>>> new_branch
 123
 1
+2
